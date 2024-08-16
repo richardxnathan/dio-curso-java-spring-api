@@ -1,4 +1,4 @@
-package dio.api.model;
+package dio.api.domain.model;
 
 import jakarta.persistence.*;
 
