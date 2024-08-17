@@ -73,7 +73,7 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<Main-Class>api.Application</Main-Class>
+							<Main-Class>dio-curso-java-spring-api\api\api\src\main\java\dio\api\application\Application</Main-Class>
 						</manifestEntries>
 					</archive>
 					<finalName>application</finalName>
